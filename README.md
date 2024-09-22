@@ -1,7 +1,7 @@
 # CS3790_Lab1
-When the simulator prompts to input the file name, type "gcd.sml" or "maxMin.sml",the simulator will read the file and execute the SML instructions
-The simulator is finished completely,and it works well;
-For the two questions of GCD and MaxMin ,I only finish them partially,the following are the detailed description of the two problems's SML code
+1.When the simulator prompts to input the file name, type "gcd.sml" or "maxMin.sml",the simulator will read the file and execute the SML instructions
+2.The simulator is finished completely,and it works well;
+3.For the two questions of GCD and MaxMin ,I only finish them partially,the following are the detailed description of the two problems's SML code
 
 /***************************************************************************************************************************************************/
 Given two positive integers, compute their greatest common divisor. 
