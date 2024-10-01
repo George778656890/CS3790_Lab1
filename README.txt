@@ -1,3 +1,9 @@
+CS3790  Lab Assignment1---Simpletron Simulator
+Zhihong Liu(Student ID:5088806)
+Date:01 Oct 2024
+This is a standard C++ program developed by Visual Studio,once repository is cloned,no other configurations are required.
+
+
 1.When the simulator prompts to input the file name, type "gcd.sml" or "maxMin.sml",the simulator will read the file and execute the SML instructions
 
 2.The simulator is finished completely,and it works well;
